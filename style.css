@@ -195,7 +195,7 @@ footer {
   }
 }
 
-@media(max-width:500px) {
+@media(max-width:768px) {
   .hero .hero-content h2.sweets-logo {
     font-size: 48px;
   }
@@ -203,4 +203,5 @@ footer {
   .btn {
     padding: 10px 20px;
   }
+
 }
