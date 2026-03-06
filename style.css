@@ -102,7 +102,7 @@ section h2 {
 .cards {
   color: rgb(255,63,164);
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -110,8 +110,8 @@ section h2 {
   color: rgb(255,63,164);
   padding: 5px;
   border-radius: 15px;
-  width: 40px;
-  margin: 15px;
+  width: 90%;
+  margin: 15px auto;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
@@ -205,5 +205,6 @@ footer {
   }
 
 }
+
 
 
