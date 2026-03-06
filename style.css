@@ -108,7 +108,7 @@ section h2 {
 
 .card {
   color: rgb(255,63,164);
-  padding: 50px;
+  padding: 5px;
   border-radius: 15px;
   width: 40px;
   margin: 15px;
@@ -205,4 +205,5 @@ footer {
   }
 
 }
+
 
